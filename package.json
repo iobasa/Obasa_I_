@@ -1,0 +1,29 @@
+{
+  "name": "obasa_i_portfolio",
+  "version": "1.0.0",
+  "description": "using classes with node and express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iobasa/Obasa_I_Portfolio.git"
+  },
+  "keywords": [
+    "classes",
+    "node",
+    "javascript"
+  ],
+  "author": "iobasa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "hbs": "^4.0.6",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
